@@ -1,0 +1,24 @@
+.jumbotron {
+  background-image: url("https://www.japan-guide.com/thumb/interest_flowers.jpg");
+}
+
+#list_benefits h2 {
+  font-size: 30px;
+}
+#list_benefits ul li {
+  color: blue;
+}
+
+.warning {
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.warning {
+  background-color: #ffcc00;
+}
+
+/*# sourceMappingURL=style_benefits.css.map */
